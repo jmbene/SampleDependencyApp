@@ -3,10 +3,5 @@
 //
 
 // Google Analytics iOS
-#import "GAI.h"
-#import "GAITracker.h"
-#import "GAITrackedViewController.h"
-#import "GAIDictionaryBuilder.h"
-#import "GAIFields.h"
-#import "GAILogger.h"
+#import <SampleDependencySDK/GAIDiccionary.h>
 

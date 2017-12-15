@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (4.6.0)
+  - SampleDependencySDK (0.0.1):
+    - Alamofire
+
+DEPENDENCIES:
+  - Alamofire
+  - SampleDependencySDK (from `../SampleDependencySDK`)
+
+EXTERNAL SOURCES:
+  SampleDependencySDK:
+    :path: ../SampleDependencySDK
+
+SPEC CHECKSUMS:
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  SampleDependencySDK: 66c4143fde37e42c20ae3b3b5f0ebe0951e0098b
+
+PODFILE CHECKSUM: f468ca9a18b74d83231cf965666be8a50b895f62
+
+COCOAPODS: 1.4.0.beta.2
