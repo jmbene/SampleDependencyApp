@@ -3,5 +3,5 @@
 //
 
 // Google Analytics iOS
-#import <SampleDependencySDK/GAIDiccionary.h>
+#import <SampleDependencySDK/SampleDependencySDK.h>
 
