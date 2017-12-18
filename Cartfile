@@ -1,1 +1,1 @@
-git "../SampleDependencySDK" "master"
+github "jmbene/SampleDependencySDK"

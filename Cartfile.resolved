@@ -1,1 +1,4 @@
-git "../SampleDependencySDK" "5fc5357a7bb2adf9fda5b2ca13bf79e77fdfbf4c"
+github "Alamofire/Alamofire" "4.6.0"
+github "akashivskyy/GoogleAnalytics-Framework" "3.17"
+github "jmbene/SampleDependencySDK" "0.0.1"
+github "jspahrsummers/xcconfigs" "0.11"
